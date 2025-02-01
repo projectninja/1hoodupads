@@ -9,7 +9,7 @@ const Page = () => {
         <h2 className="text-xl font-semibold">All Books</h2>
         <Button className="bg-primary-admin" asChild>
           <Link href="/admin/books/new" className="text-white">
-            + Create a New Book
+            + Create a New Ad
           </Link>
         </Button>
       </div>
