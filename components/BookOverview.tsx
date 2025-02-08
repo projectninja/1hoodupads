@@ -58,11 +58,11 @@ const BookOverview = async ({
 
         <div className="book-copies">
           <p>
-            Total Books <span>{totalCopies}</span>
+            Total Ad Credits <span>{totalCopies}</span>
           </p>
 
           <p>
-            Available Books <span>{availableCopies}</span>
+            Available Ad Credits <span>{availableCopies}</span>
           </p>
         </div>
 

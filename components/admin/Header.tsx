@@ -7,7 +7,7 @@ const Header = ({ session }: { session: Session }) => {
         <h2 className="text-2xl font-semibold text-dark-400">
           {session?.user?.name}
         </h2>
-        <p className="text-base text-slate-500">
+        <p className="text-base text-slate-200">
           Monitor all of your users and ads here
         </p>
       </div>

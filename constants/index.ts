@@ -12,6 +12,19 @@ export const navigationLinks = [
   },
 ];
 
+export const userSideBarLinks = [
+  {
+    img: "/icons/admin/home.svg",
+    route: "/",
+    text: "Home",
+  },
+  {
+    img: "/icons/admin/book.svg",
+    route: "/ads",
+    text: "Upload Ads",
+  },
+];
+
 export const adminSideBarLinks = [
   {
     img: "/icons/admin/home.svg",

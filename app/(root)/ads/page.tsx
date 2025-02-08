@@ -8,14 +8,14 @@ const Page = () => {
       <div className="flex flex-wrap items-center justify-between gap-2">
         <h2 className="text-xl font-semibold">All Ads</h2>
         <Button className="bg-primary-admin" asChild>
-          <Link href="/admin/books/new" className="text-white">
+          <Link href="/ads/new" className="text-white">
             + Create a New Ad
           </Link>
         </Button>
       </div>
 
       <div className="mt-7 w-full overflow-hidden">
-        <p>Table</p>
+        <p>Table Display Under Construction</p>
       </div>
     </section>
   );
